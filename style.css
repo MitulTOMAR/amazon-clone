@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    background-color: darkslategray;
+    height:80px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.nav.nav-logo{
+    background-image: url("logo\ main.jpg");
+}
+.border:hover{
+    border: 1px solid white;
+}
+.nav-search{
+    background-color: rgb(255, 185, 73);
+    border-radius: 4px;
+    
+}
+.bar{
+height: 35px;
+width: 400px;
+}
+.support{
+    margin-left: 5px;
+    font-size: 1.2rem;
+    
+}
+.menu {
+    font-size: 1.4rem;
+
+}
+.medium{
+    height: 400px;
+    background-image: url("3.1.jpg");
+    background-size: cover;
+
+}
+.medium h2{
+    color: rgb(246, 215, 247);
+    font-size: 2.5rem;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+.security{
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.security input{
+     height: 30px;
+     width: 250px;
+     margin-top: 5px;
+     display: block;
+}
+.sign-in{
+    display: flex;
+    margin-top: 15px;
+    font-size: 1.5rem;
+    font-weight: 700;}
+.sign-in a{
+    color: rgb(255, 255, 255);
+}
+.sign{
+    margin-left: 85px;
+}
+.sign-in :hover{
+    color: rgb(134, 39, 39);
+}
+.nav-logo{
+    height: 75px;
+    width: 90px;
+    background-image: url("logo\ main.jpg");
+    background-size: cover;
+    padding-top: 4px;
+}
+input:hover{
+    border: 2px solid rgb(255, 166, 0);
+}
+.message{
+    height: 60px;
+    background-color: #424545;
+    border-top: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.message i{
+    color: aliceblue;
+    font-size: 1.3rem;
+    font-weight: 400;   
+
+}
+.selection{
+    background-color: darkgrey;
+    height: 850px;
+    color: white;
+}
+.box1{
+    height:300px;
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+    left: 75%;
+    background-image: url("part4.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+.box2{
+    height:300px;
+    width: 450px;
+    background-color: blue;
+    position: absolute;
+    left: 65%;
+    background-image: url("part6.webp");
+    background-size: cover;
+}
+.selection{
+    font-size: 1.5rem;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+.info{
+    height: 40px;
+    border-top: 2px solid white;
+    background-color: rgb(108, 151, 157);
+    font-size: 1rem;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+}
+footer{
+    display: flex;
+    background-color: rgb(34, 43, 43);
+    justify-content: space-evenly;
+    padding: 30px;
+    height: 200px;
+
+
+}
+.policy a{
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: rgb(178, 178, 169);
+}
+.policy p{
+    color:rgb(185, 178, 178);
+    padding-top: 10px;
+}
+.copy{
+    height: 60px;
+    background-color:#121111;
+    color: rgb(253, 253, 253);
+    font-size: 0.7rem;
+
+}
+.one{
+    text-align: center;
+    padding: 2px;
+}
+.two{
+    text-align: center;
+}
+    
